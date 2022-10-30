@@ -20,10 +20,17 @@ Price ground truth data is saved in the "price_data" folder.
 For more information, please see the accompanying research paper.
 
 If you find this data useful, please cite our work:
+
 @inproceedings{mathur2022monopoly,
+
  title={MONOPOLY: Financial Prediction from MONetary POLicY Conference Videos Using Multimodal Cues},
+ 
  author={Mathur, Puneet and Neerkaje, Atula and Chhibber, Malika and Sawhney, Ramit and Guo, Fuming and Dernoncourt, Franck and Dutta, Sanghamitra and Manocha, Dinesh},
+ 
  booktitle={Proceedings of the 30th ACM International Conference on Multimedia},
+ 
  pages={2276--2285},
+ 
  year={2022}
+ 
 }
