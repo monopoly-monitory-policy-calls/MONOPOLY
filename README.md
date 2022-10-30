@@ -21,7 +21,7 @@ For more information, please see the accompanying research paper.
 
 If you find this data useful, please cite our work:
 
-@inproceedings{mathur2022monopoly,
+```@inproceedings{mathur2022monopoly,
 
  title={MONOPOLY: Financial Prediction from MONetary POLicY Conference Videos Using Multimodal Cues},
  
@@ -33,4 +33,4 @@ If you find this data useful, please cite our work:
  
  year={2022}
  
-}
+}'''
